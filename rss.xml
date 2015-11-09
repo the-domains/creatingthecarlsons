@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Creating the Carlsons | A Shane & Hannah Carlson Blog]]></title>
         <description><![CDATA[Creating the Carlsons | A Shane & Hannah Carlson Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creatingthecarlsons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 03:51:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 03:57:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creatingthecarlsons/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World ]]></title>
             <description><![CDATA[<article><h1>Hello World </h1><p>A Shane & Hannah Carlson blog all about creating the Carlsons</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a24c36c9-129e-4f44-bfa7-299967bf81b0.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/creatingthecarlsons/hello-world/index.html</link>
             <guid isPermaLink="false">a96db3e5-4e83-479b-b773-48eb1bfaf470</guid>
-            <pubDate>Mon, 09 Nov 2015 03:51:27 GMT</pubDate>
+            <pubDate>Mon, 09 Nov 2015 03:52:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
