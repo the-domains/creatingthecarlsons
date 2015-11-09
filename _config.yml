@@ -1,0 +1,23 @@
+name: creatingthecarlsons
+favicon: null
+layout_spectrum: 0.3229287995491177
+typography_spectrum: 0.09045918518677354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.539644613629207
+  lightness: 0.5034325155429542
+  saturation: 0.25849458086304367
+  rhythmicContrast: 0.6784885199740529
+purpose: []
